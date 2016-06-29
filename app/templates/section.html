@@ -1,0 +1,23 @@
+
+<div class="section">
+	<div class="controlpane">
+		<img src="http://www.smashdocs.net/assets/images/smashdocs_logo_5.png" alt="SmashDocs" width="150" />
+
+		<a href="#" ng-click="vm.sendToAPI('checkin')" class="btn btn-primary controlpane-item draft-checkin hint--bottom hint--rounded" aria-label="Checkin">Checkin</a>
+		<a href="#" ng-click="vm.sendToAPI('save')" class="btn btn-primary controlpane-item change-save hint--bottom hint--rounded" aria-label="Save">Save</a>
+		<a href="#" ng-click="vm.sendToAPI('discard')" class="btn btn-primary controlpane-item change-discard hint--bottom hint--rounded" aria-label="Discard">Discard</a>
+		<a href="#" ng-click="vm.sendToAPI('accept')" class="btn btn-primary controlpane-item decide-accept hint--bottom hint--rounded" aria-label="Accept">Accept</a>
+		<a href="#" ng-click="vm.sendToAPI('decline')" class="btn btn-primary controlpane-item decide-decline hint--bottom hint--rounded" aria-label="Decline">Decline</a>
+	</div>
+	<div 
+		class="content" 
+		contenteditable="true" 
+		ng-bind-html="vm.redlinedata.html" 
+		ng-focus="vm.onFocusContent()" 
+		ng-blur="vm.onBlurContent()"
+		ng-class="{'highlight':vm.highlight==true,'normal':vm.highlight==false}"		
+		ng-keyup="vm.onKeyUp($event)"
+		>
+		
+	</div>
+</div>

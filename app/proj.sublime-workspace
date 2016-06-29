@@ -1,0 +1,1016 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ch",
+				"CharField"
+			],
+			[
+				"upload",
+				"upload_to"
+			],
+			[
+				"Optio",
+				"OptionalSerializer"
+			],
+			[
+				"fipe",
+				"fipe_id"
+			],
+			[
+				"close",
+				"closeModalEvent	property"
+			],
+			[
+				"from",
+				"fromEvent	let"
+			],
+			[
+				"Even",
+				"EventEmitter	alias"
+			],
+			[
+				"Ob",
+				"Observable	alias"
+			],
+			[
+				"get",
+				"getElementById	method"
+			],
+			[
+				"Va",
+				"VanillaModal	var"
+			],
+			[
+				"Data",
+				"DataserviceService	alias"
+			],
+			[
+				"ev",
+				"Event	interface"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"navig",
+				"navigator	var"
+			],
+			[
+				"Media",
+				"MediaSource	interface"
+			],
+			[
+				"navi",
+				"navigator	var"
+			],
+			[
+				"navigat",
+				"Navigator	interface"
+			],
+			[
+				"toS",
+				"toString	method"
+			],
+			[
+				"getM",
+				"getMonth	method"
+			],
+			[
+				"Control",
+				"ControlGroup	alias"
+			],
+			[
+				"res",
+				"rest_framework_jwt"
+			],
+			[
+				"permis",
+				"permission_classes"
+			],
+			[
+				"val",
+				"valueChanges	property"
+			],
+			[
+				"ei",
+				"emitModelToViewChange	property"
+			],
+			[
+				"Pro",
+				"Profile	class"
+			],
+			[
+				"op",
+				"options	let"
+			],
+			[
+				"re",
+				"response	property"
+			],
+			[
+				"u",
+				"_updateValue	method"
+			],
+			[
+				"up",
+				"updateValueAndValidity	method"
+			],
+			[
+				"For",
+				"FormBuilder	alias"
+			],
+			[
+				"ue",
+				"user	property"
+			],
+			[
+				"valid",
+				"validated_data"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"user",
+				"user2"
+			],
+			[
+				"ca",
+				"car2"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"rout",
+				"ROUTER_PROVIDERS	alias"
+			],
+			[
+				"Route",
+				"ROUTER_DIRECTIVES	alias"
+			],
+			[
+				"naviga",
+				"navigateByUrl	method"
+			],
+			[
+				"na",
+				"navigate	method"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"his",
+				"history1	property"
+			],
+			[
+				"His",
+				"HistoryCategory	alias"
+			],
+			[
+				"clas",
+				"className"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"inl",
+				"inline"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"pro",
+				"profile-credibility"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"p",
+				"push	method"
+			],
+			[
+				"Comm",
+				"Comments	alias"
+			],
+			[
+				"In",
+				"Input	alias"
+			],
+			[
+				"Ow",
+				"OwnCarsComponent	alias"
+			],
+			[
+				"Inp",
+				"Input	var"
+			],
+			[
+				"car",
+				"car2	property"
+			],
+			[
+				"Opt",
+				"Optional	alias"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"He",
+				"HeaderLogoComponent	alias"
+			],
+			[
+				"angu",
+				"angular2-app"
+			],
+			[
+				"mo",
+				"modalToOpen	property"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"attr",
+				"setAttribute	method"
+			],
+			[
+				"Head",
+				"HeaderMenuComponent	alias"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"backgr",
+				"background-position"
+			],
+			[
+				"d",
+				"directives	property"
+			],
+			[
+				"R",
+				"Routes	alias"
+			],
+			[
+				"Spinn",
+				"SpinnerComponent"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"Car",
+				"CarOptionals"
+			],
+			[
+				"Man",
+				"ManyToManyField"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"pagin",
+				"pagination-item"
+			],
+			[
+				"curr",
+				"currentElement"
+			],
+			[
+				"dataser",
+				"dataservice"
+			],
+			[
+				"Pok",
+				"PokemonService"
+			],
+			[
+				"national",
+				"national_id"
+			],
+			[
+				"defe",
+				"deferred"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"be",
+				"beforeEach"
+			],
+			[
+				"der",
+				"defer"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"poke",
+				"pokedex"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ma",
+				"max-height"
+			],
+			[
+				"color-dark",
+				"color-darkgray"
+			],
+			[
+				"border",
+				"border-radius-bottom-right"
+			],
+			[
+				"prev",
+				"prevIndex"
+			],
+			[
+				"nex",
+				"nextIndex"
+			],
+			[
+				"color-",
+				"color-darkblue"
+			],
+			[
+				"color-b",
+				"color-blue"
+			],
+			[
+				"color-w",
+				"color-white"
+			],
+			[
+				"th",
+				"threshold"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"data",
+				"dataservice"
+			],
+			[
+				"colo",
+				"color-white"
+			],
+			[
+				"getMo",
+				"getMockPokemons"
+			],
+			[
+				"color",
+				"color-darkblue"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font-si",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"id",
+				"_id"
+			],
+			[
+				"Ro",
+				"RoomController"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "components/redlineController.js",
+			"settings":
+			{
+				"buffer_size": 826,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "templates/section.html",
+			"settings":
+			{
+				"buffer_size": 1256,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"session",
+				"Remote: Disconnect from Session"
+			],
+			[
+				"Host",
+				"Remote: Host Session"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Jobs/smashdocs/app",
+		"/D/Jobs/smashdocs/app/components",
+		"/D/Jobs/smashdocs/app/templates"
+	],
+	"file_history":
+	[
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/car.ts",
+		"/D/Jobs/trustu/portal/server/car/admin.py",
+		"/D/Jobs/trustu/portal/server/trustu/urls.py",
+		"/D/Jobs/trustu/portal/server/car/views.py",
+		"/D/Jobs/trustu/portal/server/car/models.py",
+		"/D/Jobs/trustu/portal/server/car/serializers.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-edit/my-profile-edit.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-edit/my-profile-edit.component.html",
+		"/D/Jobs/trustu/portal/server/car/management/commands/brand.py",
+		"/D/Jobs/trustu/portal/server/car/management/commands/vehicle.py",
+		"/D/Jobs/trustu/portal/server/car/management/commands/model.py",
+		"/D/Jobs/trustu/portal/server/trustu/settings.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/optional.ts",
+		"/D/Jobs/trustu/portal/server/car/management/__init__.py",
+		"/D/Jobs/trustu/portal/server/car/management/commands/__init__.py",
+		"/D/Jobs/trustu/portal/server/trustu/dump_fipe.py",
+		"/D/Jobs/trustu/portal/server/car/dump_fipe.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/trustu.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-login/users-login.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-login/users-login.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/index.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/common/dataservice.service.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-signup/users-signup.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/profile.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-signup/users-signup.component.ts",
+		"/D/Jobs/trustu/portal/server/core/models.py",
+		"/D/Jobs/trustu/portal/server/core/serializers.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-login/users-login.service.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/trustu.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/assets/js/vanilla-modal.js",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile.service.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/teste.service.ts",
+		"/D/Jobs/trustu/portal/trustu/src/main.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/common/modal.ts",
+		"/D/Jobs/trustu/portal/trustu/src/assets/css/screen.css",
+		"/D/Jobs/trustu/portal/server/env/Lib/site-packages/rest_framework_jwt/views.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-signup/users-signup.service.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-change-photo/users-change-photo.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-change-photo/users-change-photo.component.css",
+		"/D/Jobs/trustu/portal/server/core/views.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-change-photo/users-change-photo.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-change-photo/users-change-photo.service.ts",
+		"/C/Users/Leandro/Desktop/views.py",
+		"/D/Jobs/trustu/portal/trustu/typings/main.d.ts",
+		"/D/Jobs/trustu/portal/trustu/src/typings.d.ts",
+		"/D/Jobs/trustu/portal/trustu/src/system-config.ts",
+		"/D/Jobs/trustu/portal/trustu/typings.json",
+		"/D/Jobs/trustu/portal/trustu/typings/browser.d.ts",
+		"/D/Jobs/trustu/portal/trustu/angular-cli-build.js",
+		"/D/Jobs/trustu/portal/trustu/dist/system-config.js",
+		"/D/Jobs/trustu/portal/trustu/package.json",
+		"/D/Jobs/trustu/portal/server/customuser/views.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-message/my-profile-message.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/assets/css/dropdown.css",
+		"/D/Jobs/trustu/portal/trustu/src/assets/js/dropdown.js",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/city.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/state.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-recommendations/users-recommendations.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-wishlist/my-profile-wishlist.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+search/search.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-comments/users-comments.component.ts",
+		"/D/Jobs/trustu/portal/server/customuser/serializers.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/header/header-menu/header-menu.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/blocks/modal/modal-opener.directive.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/user.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+profile/profile.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-highlight/users-highlight.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+home/home.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-recommendation/my-profile-recommendation.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-comment/my-profile-comment.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad-similars/ad-similars.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-signup/users-signup.component.css",
+		"/C/Users/Leandro/Desktop/settings.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-highlight/users-highlight.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/cars-confirm-wishlist/cars-confirm-wishlist.service.ts",
+		"/D/Jobs/trustu/portal/server/customuser/models.py",
+		"/D/Jobs/trustu/portal/server/env/Lib/site-packages/django/contrib/auth/models.py",
+		"/D/Jobs/trustu/portal/server/env/Lib/site-packages/django/contrib/auth/base_user.py",
+		"/D/Jobs/trustu/portal/server/env/Lib/site-packages/django/contrib/auth/forms.py",
+		"/D/Jobs/trustu/portal/server/customuser/admin.py",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/message.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/conversation.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-message/my-profile-message.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-recommendation/my-profile-recommendation.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-comment/my-profile-comment.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-comment/my-profile-comment.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-recommendation/my-profile-recommendation.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-recommendations/users-recommendations.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/users-comments/users-comments.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-wishlist/my-profile-wishlist.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-wishlist/my-profile-wishlist.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-my-vehicles/my-profile-my-vehicles.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-account/my-profile-account.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-edit/my-profile-edit.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-my-vehicles/my-profile-my-vehicles.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-my-vehicles/my-profile-my-vehicles.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-verification/my-profile-verification.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-verification/my-profile-verification.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-verification/my-profile-verification.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/verification.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-dashboard/my-profile-dashboard.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/blocks/autocomplete/autocomplete.directive.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/blocks/mask/mask.directive.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-dashboard/my-profile-dashboard.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+my-profile/my-profile-dashboard/my-profile-dashboard.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/users/notification.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/footer/footer.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/footer/footer.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+about/about.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/cars-confirm-wishlist/cars-confirm-wishlist.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/cars-confirm-wishlist/cars-confirm-wishlist.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/cars-confirm-wishlist/cars-confirm-wishlist.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad-information/ad-information.component.ts",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad-information/ad-information.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+ad/ad-information/ad-information.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+search/search-result/search-result.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/add-wishlist/add-wishlist.component.css",
+		"/D/Jobs/trustu/portal/trustu/src/app/+search/search.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+terms-of-use/terms-of-use.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+profile/profile.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/+how-works/how-works.component.html",
+		"/D/Jobs/trustu/portal/trustu/src/app/cars/add-wishlist/add-wishlist.component.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"D:\\Jobs\\trustu\\portal\\trustu\\src\\app",
+			"<current file>,D:\\Jobs\\trustu\\portal\\server\\env\\Lib\\site-packages\\django\\contrib\\auth",
+			"<current file>",
+			"C:\\Users\\Leandro\\Desktop\\plunk",
+			"D:\\Jobs\\leeeandroo_fe_001\\project\\src\\client\\app",
+			"D:\\Jobs\\desafio-egenius"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_editProfileForm",
+			".id",
+			"id",
+			"name",
+			"_signupForm",
+			"version",
+			"document.getEle",
+			"_setupDomNodes",
+			"_getNode",
+			"_setupDomNodes",
+			"console",
+			"authenticate",
+			"password",
+			"angular2-jwt",
+			"\"========================\"",
+			"<li><label",
+			"VerifyJSONWebTokenSerializer",
+			"_captureNode",
+			"_open",
+			",",
+			"public",
+			"new User(",
+			",",
+			"public",
+			"= ",
+			"_signupForm",
+			"']\"\n",
+			"required",
+			"new User(\"Eliana\", \"Lima\", \"email@mail.com\", null, true);",
+			"new User(\"Eliana\", \"Lima\", \"email@mail.com\", null);",
+			"new User(",
+			"ngFormControl",
+			"[(ngModel)]",
+			"public",
+			"ngControl",
+			":",
+			"div:not('.switch') [type=\"checkbox\"]",
+			"get_serializer",
+			"read",
+			"set_password",
+			"make_pass",
+			"set_pass",
+			"passwo",
+			"password_validation",
+			"PASSWORD_VAL",
+			"PasswordInput",
+			"SAVE",
+			"set_pas",
+			"Manager",
+			"Managers",
+			"pass",
+			"PermissionsMix",
+			"Permission",
+			"UserManager(",
+			"password",
+			"VALUES (",
+			"[id], ",
+			"INSERT [dbo].[crowd_skills]",
+			"recommend",
+			"grid-16",
+			"Solicitar",
+			"  ",
+			"30",
+			"<div class=\"grid-20 mobile-grid-33 tablet-grid-25 padding-0 padding-bottom-20 text-center\">",
+			"<div class=\"grid-100 mobile-grid-100 tablet-grid-100 padding-0 padding-top-20\">",
+			"<div class=\"grid-20 mobile-grid-33 tablet-grid-25 padding-0 padding-bottom-20\">",
+			"cmn-toggle-1",
+			":not(.switch)",
+			"div:not(.switch) ",
+			"label for",
+			"input-default-small grid-100",
+			"password",
+			"Senha atual",
+			"password",
+			"Senha atual",
+			"ad.",
+			"ad",
+			"import",
+			"label for",
+			"</option>",
+			"<option",
+			"grid-80",
+			"grid-20",
+			"value",
+			"wrapp",
+			"assets",
+			"radius",
+			"my-profile",
+			"pagina-principal",
+			"<li>",
+			"Página principal",
+			"consol",
+			"opt_1",
+			"version_1",
+			"el-2",
+			"el-1",
+			"el-3",
+			"el-2",
+			"el-1",
+			"el-2",
+			"el-1",
+			"wrapper-dropdown-4",
+			"console",
+			"wrapper-dropdown-4",
+			"input-default",
+			"input-default ",
+			"f75454",
+			"<p>",
+			"./",
+			"padding-right",
+			"comment",
+			"grid-40",
+			"botom",
+			"<div class=\"grid-40 mobile-grid-100 tablet-grid-100 padding-0\">",
+			"•  ",
+			"_captureNode",
+			"onClose",
+			"appe",
+			"remove",
+			"hid",
+			"hidd",
+			"');",
+			");",
+			"`cidades` (`estados_cod_estados`, `cod_cidades`, `nome`, `cep`)",
+			"right-10",
+			"Autocomplete",
+			".js",
+			"extension"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"new User(\"Eliana\", \"Lima\", \"email@mail.com\", null);",
+			"new User(\"Eliana\", \"Lima\", \"email@mail.com\", null, true);",
+			"",
+			"wrapper-dropdown",
+			"<li>",
+			"[dbo].[crowd_cities] (id_state,  id, name, active)",
+			"$1:",
+			"$0:",
+			"$3:",
+			"$1:",
+			"$2",
+			"Room",
+			"RommController"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "components/redlineController.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/section.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1233,
+								1233
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 94.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proj.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"mock",
+				"client\\bower_components\\angular-mocks\\ngMock.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
